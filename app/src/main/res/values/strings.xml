@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">My AWS Notes</string>
+    <string name="app_name">AWS Notes</string>
+    <string name="sign_in">AWS Sign In</string>
     <string name="title_note_detail">Note Detail</string>
 </resources>
